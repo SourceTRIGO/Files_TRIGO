@@ -591,5 +591,5 @@ end
 
 end
 return {
-TRIGO = games
+iTRIGO = games
 }
